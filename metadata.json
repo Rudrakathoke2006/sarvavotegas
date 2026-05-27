@@ -1,0 +1,6 @@
+{
+  "name": "SarvaVote AI",
+  "description": "Government-grade, inclusive, multilingual digital voting platform featuring multi-modal accessibility, voice biometrics, blockchain ledger audit, and intelligent AI assistance.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
